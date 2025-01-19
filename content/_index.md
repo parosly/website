@@ -1,13 +1,13 @@
 ---
-title: "Welcome to Doks"
+title: "Welcome to Parosly"
 description: ""
-lead: "Congrats on setting up a new Doks project!"
+lead: "Empower Prometheus through extended API & UI"
 date: 2023-09-07T16:33:54+02:00
 lastmod: 2023-09-07T16:33:54+02:00
 draft: false
 seo:
-  title: "Welcome to Doks" # custom title (optional)
+  title: "Welcome to Parosly" # custom title (optional)
   description: "" # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  robots: "" # custom robot tags (optional)
 ---
