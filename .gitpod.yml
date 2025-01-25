@@ -1,8 +1,8 @@
 # Source: https://github.com/gitpod-io/template-hugo/blob/main/.gitpod.yml
 
-# List the start up tasks. Learn more https://www.gitpod.io/docs/config-start-tasks/
+# List the startup tasks. Learn more https://www.gitpod.io/docs/config-start-tasks/
 tasks:
-    - name: Run start up tasks
+    - name: Run startup tasks
       before: brew install hugo
       init: pnpm install
       command: hugo server --baseURL $(gp url 1313) --liveReloadPort=443 --appendPort=false --bind=0.0.0.0 --disableFastRender --noHTTPCache --navigateToChanged

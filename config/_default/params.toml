@@ -1,6 +1,6 @@
 # Hugo
-title = "My Docs"
-description = "Congrats on setting up a new Doks project!"
+title = "Parosly"
+description = "Empower Prometheus through extended API & UI"
 images = ["cover.png"]
 
 # mainSections
@@ -21,7 +21,7 @@ mainSections = ["docs"]
 
   ## Button
   navBarButton = false # false (default) or true
-  navBarButtonUrl = "/docs/prologue/introduction/"
+  navBarButtonUrl = "/docs/getting-started/overview/"
   navBarButtonText = "Get started"
 
   # FlexSearch
@@ -59,7 +59,7 @@ mainSections = ["docs"]
   docsVersion = "1.0"
 
   # UX
-  headerBar = false # true (default) or false
+  headerBar = true # true (default) or false
   backgroundDots = true # true (default) or false
 
   # Homepage
@@ -74,11 +74,9 @@ mainSections = ["docs"]
   editPage = false # false (default) or true
   lastMod = false # false (default) or true
   repoHost = "GitHub" # GitHub (default), Gitea, GitLab, Bitbucket, or BitbucketServer
-  docsRepo = "https://github.com/h-enk/doks"
+  docsRepo = "https://github.com/parosly/website"
   docsRepoBranch = "main" # main (default), master, or <branch name>
   docsRepoSubPath = "" # "" (none, default) or <sub path>
-
-  krokiURL = "https://kroki.io" # "https://kroki.io" (default) or custom URL like http://localhost:8000.
 
   # SCSS colors
   # backGround = "yellowgreen"
@@ -125,14 +123,14 @@ mainSections = ["docs"]
   [seo.favicons]
     sizes = []
     icon = "favicon.png" # favicon.png (default)
-    svgIcon = "favicon.svg" # favicon.svg (default)
+    svgIcon = "favicon.png" # favicon.svg (default)
     maskIcon = "mask-icon.svg" # mask-icon.svg (default)
     maskIconColor = "white" # white (default)
   [seo.schemas]
     type = "Organization" # Organization (default) or Person
     logo = "favicon-512x512.png" # Logo of Organization — favicon-512x512.png (default)
-    name = "Thulite" # Name of Organization or Person
-    sameAs = [] # E.g. ["https://github.com/thuliteio/thulite", "https://fosstodon.org/@thulite"]
+    name = "Parosly" # Name of Organization or Person
+    sameAs = ["https://github.com/parosly/parosly"]
     images = ["cover.png"] # ["cover.png"] (default)
     article = [] # Article sections
     newsArticle = [] # NewsArticle sections

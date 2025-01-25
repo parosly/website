@@ -1,1 +1,6 @@
 // Put your custom SCSS variables here
+
+// Light mode
+$primary: rgba(220, 47, 20, 0.96);
+$button-hover-color: darken($primary, 10%);
+$headings-color: rgba(204, 47, 22, 0.96);
