@@ -3,21 +3,21 @@
   
     <url>
       <loc>/docs/getting-started/overview/</loc>
-      <lastmod>2023-09-07T16:04:48+02:00</lastmod>
+      <lastmod>2025-01-25T18:00:00+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
       <loc>/docs/getting-started/getting-started-with-docker/</loc>
-      <lastmod>2023-09-07T16:04:48+02:00</lastmod>
+      <lastmod>2025-01-20T18:00:00+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
       <loc>/docs/getting-started/getting-started-with-kubernetes/</loc>
-      <lastmod>2023-09-07T16:04:48+02:00</lastmod>
+      <lastmod>2025-01-20T18:00:00+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>

@@ -3,14 +3,7 @@
   
     <url>
       <loc>/docs/getting-started/</loc>
-      <lastmod>2023-09-07T16:06:50+02:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-    </url>
-    
-    <url>
-      <loc>/docs/guides/</loc>
-      <lastmod>2023-09-07T16:06:50+02:00</lastmod>
+      <lastmod>2025-01-25T18:00:00+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
@@ -23,50 +16,31 @@
     </url>
     
     <url>
-      <loc>/docs/reference/</loc>
-      <lastmod>2023-09-07T16:12:37+02:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-    </url>
-    
-    <url>
       <loc>/docs/resources/</loc>
-      <lastmod>2024-02-27T09:30:56+01:00</lastmod>
+      <lastmod>2025-01-25T18:00:00+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     <url>
         <loc>/docs/getting-started/overview/</loc>
-        <lastmod>2023-09-07T16:04:48+02:00</lastmod>
+        <lastmod>2025-01-25T18:00:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
         <loc>/docs/getting-started/getting-started-with-docker/</loc>
-        <lastmod>2023-09-07T16:04:48+02:00</lastmod>
+        <lastmod>2025-01-20T18:00:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
         <loc>/docs/getting-started/getting-started-with-kubernetes/</loc>
-        <lastmod>2023-09-07T16:04:48+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
-        <loc>/docs/guides/example-guide/</loc>
-        <lastmod>2023-09-07T16:04:48+02:00</lastmod>
+        <lastmod>2025-01-20T18:00:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
         <loc>/docs/api/api-reference/</loc>
-        <lastmod>2023-09-07T16:13:18+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
-        <loc>/docs/reference/example-reference/</loc>
         <lastmod>2023-09-07T16:13:18+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
