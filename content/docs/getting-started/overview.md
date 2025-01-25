@@ -2,8 +2,8 @@
 title: "Overview"
 description: "General overview of Parosly"
 summary: ""
-date: 2023-09-07T16:04:48+02:00
-lastmod: 2023-09-07T16:04:48+02:00
+date: 2025-01-25T18:00:00+02:00
+lastmod: 2025-01-25T18:00:00+02:00
 draft: false
 weight: 700
 toc: true
@@ -16,7 +16,7 @@ seo:
 
 ## What is Parosly?
 
-[Parosly](https://github.com/parosly) is an open-source project that enhances the native Prometheus HTTP API by providing 
+[Parosly](https://github.com/parosly/parosly) is an open-source project that enhances the native Prometheus HTTP API by providing 
 additional features and addressing its limitations. This means that users can still access the native API endpoints 
 provided by Prometheus, while also gaining access to the additional endpoints offered by the project. It has only a couple of requirements, which are explained below.
 

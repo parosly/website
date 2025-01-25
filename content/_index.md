@@ -2,8 +2,8 @@
 title: "Welcome to Parosly"
 description: ""
 lead: "Empower Prometheus through extended API & UI"
-date: 2023-09-07T16:33:54+02:00
-lastmod: 2023-09-07T16:33:54+02:00
+date: 2025-01-25T18:00:00+02:00
+lastmod: 2025-01-25T18:00:00+02:00
 draft: false
 seo:
   title: "Welcome to Parosly" # custom title (optional)

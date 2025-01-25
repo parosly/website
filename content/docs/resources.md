@@ -2,8 +2,8 @@
 title: "Resources"
 description: ""
 summary: ""
-date: 2024-02-27T09:30:56+01:00
-lastmod: 2024-02-27T09:30:56+01:00
+date: 2025-01-25T18:00:00+02:00
+lastmod: 2025-01-25T18:00:00+02:00
 draft: false
 weight: 999
 toc: true
@@ -14,4 +14,5 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
-Link to valuable, relevant resources.
+* [Prometheus Configuration](https://prometheus.io/docs/prometheus/latest/configuration/configuration/)
+* [Prometheus Management API](https://prometheus.io/docs/prometheus/latest/management_api/)
