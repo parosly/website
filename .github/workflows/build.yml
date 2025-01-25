@@ -1,4 +1,4 @@
-name: Deploy Parosly website to GitHub Pages
+name: Deploy Parosly Website
 
 on:
   push:
