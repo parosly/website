@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to Parosly on Parosly</title>
+    <link>/</link>
+    <description>Recent content in Welcome to Parosly on Parosly</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2025 </copyright>
+    <lastBuildDate>Mon, 20 Jan 2025 18:00:00 +0200</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coming Soon</title>
+      <link>/blog/coming-soon/</link>
+      <pubDate>Sun, 19 Jan 2025 16:27:22 +0200</pubDate>
+      <guid>/blog/coming-soon/</guid>
+      <description>Blog post coming soon</description>
+    </item>
+    <item>
+      <title>Overview</title>
+      <link>/docs/getting-started/overview/</link>
+      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
+      <guid>/docs/getting-started/overview/</guid>
+      <description>&lt;h2 id=&#34;what-is-parosly&#34;&gt;What is Parosly?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/parosly&#34;&gt;Parosly&lt;/a&gt; is an open-source project that enhances the native Prometheus HTTP API by providing&#xA;additional features and addressing its limitations. This means that users can still access the native API endpoints&#xA;provided by Prometheus, while also gaining access to the additional endpoints offered by the project. It has only a couple of requirements, which are explained below.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Example Guide</title>
+      <link>/docs/guides/example-guide/</link>
+      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
+      <guid>/docs/guides/example-guide/</guid>
+      <description>&lt;p&gt;xxxxxxxxxxxx&lt;/p&gt;&#xA;&lt;h2 id=&#34;further-reading&#34;&gt;Further reading&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Read &lt;a href=&#34;https://diataxis.fr/how-to-guides/&#34;&gt;about how-to guides&lt;/a&gt; in the Diátaxis framework&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Getting Started With Docker</title>
+      <link>/docs/getting-started/getting-started-with-docker/</link>
+      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
+      <guid>/docs/getting-started/getting-started-with-docker/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The following prerequisites are required to get up and running with this tool:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Prometheus server&amp;rsquo;s rules directory and configuration file (prometheus.yml) must be shared and accessible&lt;/li&gt;&#xA;&lt;li&gt;Prometheus lifecycle API must be enabled to allow requesting the /reload API&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;getting-started-with-docker-compose&#34;&gt;Getting started with Docker Compose&lt;/h2&gt;&#xA;&lt;p&gt;First, clone the project, and then start up the services with Docker Compose.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting Started With Kubernetes</title>
+      <link>/docs/getting-started/getting-started-with-kubernetes/</link>
+      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
+      <guid>/docs/getting-started/getting-started-with-kubernetes/</guid>
+      <description>&lt;h2 id=&#34;getting-started-with-helm&#34;&gt;Getting started with Helm&lt;/h2&gt;&#xA;&lt;p&gt;To deploy Parosly in Kubernetes, it is easy to use the provided &lt;a href=&#34;./values.yaml&#34;&gt;values.yaml&lt;/a&gt; file. This will&#xA;deploy the &lt;a href=&#34;https://github.com/prometheus-community/helm-charts/tree/main/charts/prometheus&#34;&gt;prometheus-community/prometheus&lt;/a&gt;&#xA;chart including the Parosly application as a sidecar container inside the Prometheus pod.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>API Reference</title>
+      <link>/docs/api/api-reference/</link>
+      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
+      <guid>/docs/api/api-reference/</guid>
+      <description>&lt;p&gt;Parosly fully supports API functionality, adhering to RESTful principles for smooth data interaction. It utilizes standard&#xA;HTTP methods (GET, POST, PUT, PATCH, DELETE) and clear, intuitive endpoints to ensure easy integration, consistent responses,&#xA;and efficient automation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Example Reference</title>
+      <link>/docs/reference/example-reference/</link>
+      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
+      <guid>/docs/reference/example-reference/</guid>
+      <description>&lt;p&gt;Reference pages are ideal for outlining how things work in terse and clear terms. Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what your documenting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>/docs/resources/</link>
+      <pubDate>Tue, 27 Feb 2024 09:30:56 +0100</pubDate>
+      <guid>/docs/resources/</guid>
+      <description>&lt;p&gt;Link to valuable, relevant resources.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Mon, 20 Jan 2025 18:00:00 +0200</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;At Parosly, we respect the privacy of our users and are committed to safeguarding any personal information. As an open-source, self-hosted project, Parosly does not collect, store, or share any personal data. This Privacy Policy outlines how we handle any information related to your use of our website and services.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
